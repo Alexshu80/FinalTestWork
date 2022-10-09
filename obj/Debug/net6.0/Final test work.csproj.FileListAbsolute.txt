@@ -1,0 +1,15 @@
+C:\Users\Alexshu\Documents\Final test work\bin\Debug\net6.0\Final test work.exe
+C:\Users\Alexshu\Documents\Final test work\bin\Debug\net6.0\Final test work.deps.json
+C:\Users\Alexshu\Documents\Final test work\bin\Debug\net6.0\Final test work.runtimeconfig.json
+C:\Users\Alexshu\Documents\Final test work\bin\Debug\net6.0\Final test work.dll
+C:\Users\Alexshu\Documents\Final test work\bin\Debug\net6.0\Final test work.pdb
+C:\Users\Alexshu\Documents\Final test work\obj\Debug\net6.0\Final test work.csproj.AssemblyReference.cache
+C:\Users\Alexshu\Documents\Final test work\obj\Debug\net6.0\Final test work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexshu\Documents\Final test work\obj\Debug\net6.0\Final test work.AssemblyInfoInputs.cache
+C:\Users\Alexshu\Documents\Final test work\obj\Debug\net6.0\Final test work.AssemblyInfo.cs
+C:\Users\Alexshu\Documents\Final test work\obj\Debug\net6.0\Final test work.csproj.CoreCompileInputs.cache
+C:\Users\Alexshu\Documents\Final test work\obj\Debug\net6.0\Final test work.dll
+C:\Users\Alexshu\Documents\Final test work\obj\Debug\net6.0\refint\Final test work.dll
+C:\Users\Alexshu\Documents\Final test work\obj\Debug\net6.0\Final test work.pdb
+C:\Users\Alexshu\Documents\Final test work\obj\Debug\net6.0\Final test work.genruntimeconfig.cache
+C:\Users\Alexshu\Documents\Final test work\obj\Debug\net6.0\ref\Final test work.dll
