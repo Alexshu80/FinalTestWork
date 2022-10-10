@@ -8,4 +8,13 @@
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
 
-
+// Метод вывода массива на экран
+void ShowArray(string[] array)
+{
+    Console.Write("[ ");
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"“{array[i]}” ");
+    }
+    Console.WriteLine("]");
+}
